@@ -6,3 +6,4 @@ dependencies:
 - ase>=3.19.0
 - gpaw
 - distributed
+- python-graphviz
